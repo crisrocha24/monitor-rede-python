@@ -1,0 +1,9 @@
+# Relatórios gerados pelo monitor
+relatorio_rede.csv
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações locais do VS Code
+.vscode/
